@@ -1,0 +1,6 @@
+window.new["title":"test","icon":"example.com"]{
+   diavice = sprite.new();
+   diavice.pic("example2.com");
+   diavice.circle(100px);
+};
+$when i have put a url you can also put a file path on desktop ver but this dosn't mean you can't play your game onlin
